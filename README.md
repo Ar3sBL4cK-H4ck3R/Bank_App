@@ -1,4 +1,4 @@
-# Bank_App
+# Bank_App with Go-Lang
 <b>Bank ATM Project With Go Lang<b>
 <br>
 This is a Banking app project made with Go Language which is helpful for anyone who want to 
