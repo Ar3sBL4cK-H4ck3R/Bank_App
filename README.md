@@ -1,5 +1,5 @@
 # Bank_App with Go-Lang
-<b>Bank ATM Project With Go Lang<b>
+<b>Bank ATM Project With Go Lang</b>
 <br>
 This is a Banking app project made with Go Language which is helpful for anyone who want to 
 code a bank app in go language. Go is a backend language with strong featurs of database handeling.
